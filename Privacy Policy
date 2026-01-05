@@ -1,0 +1,183 @@
+# Privacy Policy / 隐私政策
+
+**Last Updated / 最后更新日期：January 2025 / 2025年1月**
+
+---
+
+## English Version
+
+### Overview
+
+FastMoss Data Export Assistant ("this extension") takes your privacy seriously. This privacy policy explains how we collect, use, and protect your information.
+
+### Data Collection
+
+**What data do we collect?**
+
+**We do NOT collect any personal data.**
+
+This extension runs entirely in your local browser and does NOT:
+- Collect your personal information
+- Upload any data to our servers
+- Track your browsing behavior
+- Store your account information
+- Share data with third parties
+
+### Local Data Processing
+
+This extension only accesses data when:
+- You actively use the extension features
+- Only accesses the currently open FastMoss webpage
+- All data processing is done locally in your browser
+- Exported data files are saved directly to your device
+
+### Permission Explanations
+
+This extension requests the following permissions:
+
+**activeTab**
+- **Purpose**: Access the currently open FastMoss tab
+- **Scope**: Only active when you click the extension icon
+- **Data**: Only reads page URL and ID information
+
+**scripting**
+- **Purpose**: Execute data scraping functions
+- **Scope**: Only runs on FastMoss websites (*.fastmoss.com)
+- **Data**: Only used for API requests and data export
+
+**host_permissions**
+- **Purpose**: Access FastMoss API interfaces
+- **Scope**: Limited to https://*.fastmoss.com/*
+- **Data**: Only sends necessary API requests, does not store response data
+
+### Data Storage
+
+**Local Storage**
+
+This extension may use browser local storage (localStorage) to:
+- Remember your date range preferences (optional)
+- Temporarily store scraping progress information
+
+**All data is stored only on your device and is not synced to the cloud.**
+
+### Third-Party Services
+
+This extension does not integrate any third-party analytics services, advertising services, or tracking tools.
+
+### Data Security
+
+- All data processing is done locally
+- No network transmission involved (except API requests)
+- No sensitive information stored
+- Export files saved directly to your device
+
+### Children's Privacy
+
+This extension is not intended for children under 13, and we do not knowingly collect personal information from children.
+
+### Privacy Policy Updates
+
+We may update this privacy policy from time to time. Significant changes will be notified to users when the extension is updated.
+
+### Contact Us
+
+If you have any questions about this privacy policy, please contact:
+- Development Team: Anker Oceanwing IDC Team
+
+### Consent
+
+By using this extension, you agree to the terms of this privacy policy.
+
+---
+
+**This extension fully respects your privacy. All features run locally and will not leak any of your information.**
+
+---
+
+## 中文版本
+
+### 概述
+
+FastMoss 数据抓取助手（"本插件"）非常重视您的隐私。本隐私政策说明了我们如何收集、使用和保护您的信息。
+
+### 数据收集
+
+**我们收集什么数据？**
+
+**我们不收集任何个人数据。**
+
+本插件完全在您的本地浏览器中运行，不会：
+- 收集您的个人信息
+- 上传任何数据到我们的服务器
+- 跟踪您的浏览行为
+- 存储您的账户信息
+- 分享数据给第三方
+
+### 本地数据处理
+
+本插件仅在以下情况下访问数据：
+- 当您主动使用插件功能时
+- 仅访问您当前打开的FastMoss网页
+- 所有数据处理均在您的浏览器本地完成
+- 导出的数据文件直接保存到您的设备
+
+### 权限说明
+
+本插件请求以下权限：
+
+**activeTab**
+- **用途**：访问当前打开的FastMoss标签页
+- **范围**：仅在您点击插件图标时生效
+- **数据**：仅读取页面URL和ID信息
+
+**scripting**
+- **用途**：执行数据抓取功能
+- **范围**：仅在FastMoss网站（*.fastmoss.com）上运行
+- **数据**：仅用于API请求和数据导出
+
+**host_permissions**
+- **用途**：访问FastMoss API接口
+- **范围**：仅限 https://*.fastmoss.com/*
+- **数据**：仅发送必要的API请求，不存储响应数据
+
+### 数据存储
+
+**本地存储**
+
+本插件可能使用浏览器的本地存储（localStorage）来：
+- 记住您的日期范围偏好设置（可选）
+- 临时存储抓取进度信息
+
+**所有数据仅存储在您的设备上，不会同步到云端。**
+
+### 第三方服务
+
+本插件不集成任何第三方分析服务、广告服务或跟踪工具。
+
+### 数据安全
+
+- 所有数据处理在本地完成
+- 不涉及网络传输（除API请求外）
+- 不存储敏感信息
+- 导出文件直接保存到您的设备
+
+### 儿童隐私
+
+本插件不面向13岁以下儿童，我们不会故意收集儿童的个人信息。
+
+### 隐私政策更新
+
+我们可能会不定期更新本隐私政策。重大变更将在插件更新时通知用户。
+
+### 联系我们
+
+如果您对本隐私政策有任何疑问，请联系：
+- 开发团队：湖南海翼电子商务有限公司 IDC部门
+
+### 同意使用
+
+使用本插件即表示您同意本隐私政策的条款。
+
+---
+
+**本插件完全尊重您的隐私，所有功能均在本地运行，不会泄露您的任何信息。**
